@@ -32,7 +32,7 @@ Never deploy these configurations in production or public-facing environments (a
 1. Clone the repository:
 ```bash
 git clone https://github.com/cwsecur1ty/VSSS-Pen-testing-
-cd purposely-vulnerable-server-setup-scripts
+cd VSSS-Pen-testing-
 ```
 
 2. Review the setup scripts and configurations before running them.
